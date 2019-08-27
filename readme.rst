@@ -1,2 +1,2 @@
-# SI Inventory dengan CI6
+# SI Inventory dengan CI
 Keterangan lebih lanjut silakan lihat bagian issues
